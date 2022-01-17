@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Master Mind game works.
 
+- ([Youtube Demo](https://youtu.be/WPtMUdLuFFg))
+
 # 1.3 The Rules of Master Mind
 
 Master Mind has a simple set of rules to control the flow of play. The following summarises the rules.
